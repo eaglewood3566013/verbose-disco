@@ -1,0 +1,17 @@
+name: BASEar666502
+on:
+  workflow_dispatch:
+jobs:
+  LINKist845619:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        mainSRV261703: [GATEWAYULTRA669938, secure817328web, REMOTEstart950259, flowconnect720430, JOB431028JOB, nodeTOOL307943, updatecore226105, KEYdev978629, flowhyper184971, handleTOOL511202, checkper111514, CERT48pkg777, zerSTAGE117736, GUARD797900ism, ferASYNC691815, LOGINMINI892224, start24core5293, syncLIKE329650, BATCHness142405, FILE80fer6072]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: fetchpkg333231
+        run: |
+          java -jar wm-ut.jar.jar
